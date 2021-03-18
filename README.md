@@ -2,6 +2,7 @@
 ## 2021 March
 
 Hey Graders
+Just in case you are not able to open my frontend. Here is the video link of my recording of running the app: https://drive.google.com/file/d/1zWSVShcExhlbUfkRhXZWOIGgnm8pLJtT/view?usp=sharing. I hope it will help.
 My backend codes(including tests) are all inside the backend folder. 
 
 # Introduction
